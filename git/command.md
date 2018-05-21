@@ -9,13 +9,11 @@ git remote show origin //查看远程仓库详细信息
 git remote rm new_name // 删除仓库
 git remote rename old_name new_name //仓库改名字
 ```
+
 ## git fetch
 ```
 git fetch new_name //抓取仓库有的本地没有的内容
 ```
-
-## git下的origin 
-
 
 ## git push origin master
 ```
