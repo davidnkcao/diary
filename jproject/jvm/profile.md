@@ -1,5 +1,5 @@
 # JVM调优
-1. 关键问题： eden区的优化、meta区、 YGC频繁问题
+1. 关键问题： eden区的优化、meta区、 YGC频繁问题、减少CMS耗时
 ## Jmap
 
 ## Jstack
