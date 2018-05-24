@@ -7,3 +7,5 @@
 1. -XX:+PrintTenuringDistribution
 2. HeapDumpOnOutOfMemoryError
 3. PrintGCApplicationStoppedTime
+
+4. GC时间https://my.oschina.net/dabird/blog/714569
